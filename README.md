@@ -1,5 +1,8 @@
 # Building-an-agent-for-the-board-game-Pandemic
 
+->DOWNLOAD multiagent.zip<-
+
+
 • Direct Flight: Discard a city-card to move to the city named on the card.
 • Charter Flight: Discard the city-card that matches the city you are in to move to any city
 • Shuttle Flight: Move from a city with a research station to any other city that has a research
